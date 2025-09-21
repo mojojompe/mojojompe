@@ -1,19 +1,16 @@
-<h1 align="center">Hello 👋, I'm Emmanuel Ayomiposi Jompe</h1>
-<h3 align="center">A young, ambitious, disciplined, and flexible Software Engineer who possesses extensive experience with development tools, a strong aptitude for problem-solving, designing scalable systems and a passion for creating innovative solutions, With a growing interest in cutting-edge technologies and a knack for logical thinking.</h3>
+<h1 align="center">Emmanuel Ayomiposi Jompe</h1>
+<h3 align="center">A disciplined, and flexible Software Engineer who possesses extensive experience with development tools, a strong aptitude for problem-solving, designing scalable systems and a passion for creating innovative solutions.</h3>
 
-- 🔭 I’m currently working on [Medicare](https://medicare-five-eosin.vercel.app)
+-  I’m currently working on [Medicare](https://medicare-home.vercel.app)
 
-- 🌱 I’m currently learning **Cloud Computing, Networking**
 
-- 👯 I’m looking to collaborate on **any web/mobile, Ai and Networking projects**
+- I’m looking to collaborate on **any web/mobile development, Ai and ML projects**
 
-- 🤝 I’m looking for help with [GOFT Ai](https://github.com)
+- I’m looking for help with [GOFT Ai](https://github.com)
 
-- 💬 Ask me about **Software Engineering, Front-end development, Cybersecurity, System Analysis.**
+-**Software Engineering, Full-stack development, Cybersecurity, System Analysis and Quality Assurance.**
 
 - 📫 How to reach me **ayomiposiemmanuel9@gmail.com**
-
-- ⚡ Fun fact **I enjoy Reading, Coding and Listening to music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
