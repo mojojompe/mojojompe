@@ -1,5 +1,5 @@
 <h1 align="center">Emmanuel Ayomiposi Jompe</h1>
-<h3 align="center">A disciplined, and flexible Software Engineer who possesses extensive experience with development tools, a strong aptitude for problem-solving, designing scalable systems and a passion for creating innovative solutions.</h3>
+<h3 align="center">I'm a Software Engineer with experience with Web and Mobile development tools(MERN stack), a strong aptitude for problem-solving, designing scalable systems and creating innovative solutions.</h3>
 
 -  I’m currently working on [Medicare](https://medicare-home.vercel.app)
 
