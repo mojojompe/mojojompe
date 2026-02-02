@@ -1,7 +1,7 @@
 <h1 align="center">Emmanuel Ayomiposi Jompe</h1>
 <h3 align="center">I'm a Software Engineer with experience with Web and Mobile development tools(MERN stack), a strong aptitude for problem-solving, designing scalable systems and creating innovative solutions.</h3>
 
--  I’m currently working on [Medicare](https://medicare-home.vercel.app)
+-  I’m currently working on [Safe Route Ai](https://safe-route-ai.vercel.app)
 
 
 - I’m looking to collaborate on **any web/mobile development, Ai and ML projects**
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emmanueljompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmanueljompe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emmanuel jompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel jompe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emmanuel-jompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel jompe" height="30" width="40" /></a>
 <a href="https://fb.com/emmanuel jompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emmanuel jompe" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuel_jompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_jompe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emmanuel jompe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emmanuel jompe" height="30" width="40" /></a>
