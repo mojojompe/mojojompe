@@ -1,12 +1,12 @@
 <h1 align="center">Emmanuel Ayomiposi Jompe</h1>
 <h3 align="center">I'm a Software Engineer with experience with Web and Mobile development tools(MERN stack), a strong aptitude for problem-solving, designing scalable systems and creating innovative solutions.</h3>
 
--  I’m currently working on [Safe Route Ai](https://safe-route-ai.vercel.app)
+-  I’m currently working on [Safe Route Ai](https://safe-route-ai.vercel.app), [Finalytics](https://market-finalytics.vercel.app) and [ReportAm](https://reportam.vercel.app)
 
 
 - I’m looking to collaborate on **any web/mobile development, Ai and ML projects**
 
-- I’m looking for help with [GOFT Ai](https://github.com)
+- I’m looking for help with [GOFT Ai](https://github.com/mojojompe)
 
 -**Software Engineering, Full-stack development, Cybersecurity, System Analysis and Quality Assurance.**
 
